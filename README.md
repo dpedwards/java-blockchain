@@ -2,7 +2,6 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/dpedwards/java-blockchain/master/LICENSE)
 [![Java](https://img.shields.io/badge/java%20jre-%3E%3D%2010.0.2-brown.svg)]()
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/dare2101)
 
 Conceptual Java Blockchain with cryptography process 
 
@@ -19,10 +18,6 @@ Conceptual Java Blockchain with cryptography process
 For detailed instructions on how to configure, customize, add/migrate content, and more read the [project`s documentation](https://github.com/dpedwards/java-blockchain/docs/quick-start-guide/).
 
 ---
-
-## Contributing
-
-Having trouble working with the project? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/dpedwards/java-blockchain/issues)? Then by all means [submit an issue](https://github.com/dpedwards/java-blockchain/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
 
 ### Pull Requests
 
